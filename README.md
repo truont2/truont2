@@ -1,9 +1,9 @@
+### Hi there 👋
+
+- 😄 Pronouns: he/him
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=truont2&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=truont2&langs_count=5&theme=tokyonight)]()
-
-### Hi there 👋
-
 <!--
 **truont2/truont2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
