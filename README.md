@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on a Pet playdate application using React.js
 - 🌱 I’m currently learning React!
-- - 👯 I’m looking to collaborate on projects using React and MongoDB, or any other language!
+- 👯 I’m looking to collaborate on projects using React and MongoDB, or any other language! 
 - 😄 Pronouns: he/him
-- 💬 Ask me about snowboarding or tennis
+- 💬 Ask me about snowboarding, tennis, or computers!
 
 [![Takara's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=truont2&count_private=true&theme=tokyonight&show_icons=true)]()
 
