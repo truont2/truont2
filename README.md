@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Pet playdate application using React.js
+- 🌱 I’m currently learning React!
+- - 👯 I’m looking to collaborate on projects using React and MongoDB, or any other language!
 - 😄 Pronouns: he/him
 - 💬 Ask me about snowboarding or tennis
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=truont2&count_private=true&theme=tokyonight&showicons=true)]()
+[![Takara's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=truont2&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=truont2&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=truont2&show_icons=true&layout=compact&theme=tokyonight)]()
 <!--
 **truont2/truont2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
