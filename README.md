@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - 💬 Ask me about snowboarding or tennis
 
-[![Takara's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=truont2&count_private=true&theme=tokyonight&showicons=true)]()
+[![Takara's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=truont2&count_private=true&theme=tokyonight&show_icons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=truont2&show_icons=true&layout=compact&theme=tokyonight)]()
 <!--
