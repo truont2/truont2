@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Pet playdate application using React.js
+- 🔭 I’m currently working on a restaurant website
 - 🌱 I’m currently learning AWS!
 - 👯 I’m looking to collaborate on projects using React and MongoDB! 
 - 😄 Pronouns: he/him
