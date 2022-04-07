@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a restaurant website
-- 🌱 I’m currently learning AWS!
+- 🌱 I’m currently relearning Java for web development!
 - 👯 I’m looking to collaborate on projects using React and MongoDB! 
 - 😄 Pronouns: he/him
 - 💬 Ask me about snowboarding, tennis, or computers!
