@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Eccomerce Website
-- 🌱 I’m currently learning Redux and GraphQL!
+- 🌱 I’m currently learning AWS and Docker!
 - 👯 I’m looking to collaborate on projects using React and MongoDB! 
 - 😄 Pronouns: he/him
 - 💬 Ask me about volleyball, snowboarding, or tennis!
