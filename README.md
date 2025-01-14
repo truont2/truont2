@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a obtaining a AWS Associate Solutions Architect Certification
 - 🌱 I’m currently learning AWS and Docker!
 - 👯 I’m looking to collaborate on projects using React and MongoDB! 
 - 😄 Pronouns: he/him
